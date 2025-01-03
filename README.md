@@ -1,4 +1,4 @@
-# memeShareSocial
+# Meme Share Social Media Application
  Welcome to the Social Media Platform project built using Django! This project aims to create a basic social media platform where users can register, log in, post updates, connect with friends, and more. The platform provides a foundation that you can extend and customize to create your own unique social media experience. Features :- User registration and authentication User profiles with profile pictures and bio News feed displaying posts from friends Post creation and deletion Like on posts Follow to a user & see its post on home feed unfollow to a user User search functionality Responsive and user-friendly design User Follower list Personal User Chat Post Sharing
  
 ensure you have the following installed:
@@ -7,7 +7,7 @@ Python (version 3.6 or higher) Django (version 3.2 or higher) Git
 
 Installation Clone the repository:
 
-git clone 
+git clone : https://github.com/tahseen252/memeShareSocial
 
 Navigate to the project directory: cd memeshareapp
 
